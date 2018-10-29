@@ -1,0 +1,22 @@
+{
+  "name": "XGLib",
+  "version": "0.1.0",
+  "summary": "A short description of XGLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/994059254@qq.com/XGLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "994059254@qq.com": "ashleymiao@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/994059254@qq.com/XGLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XGLib/Classes/**/*"
+}
