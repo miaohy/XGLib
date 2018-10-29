@@ -62,11 +62,11 @@
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8AA4440CE08409097B56A0B6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		8AA4440CE08409097B56A0B6 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		A988A9C30B7194C5E2DC3153 /* Pods-XGLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XGLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XGLib_Tests/Pods-XGLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C0E8CBEE60488FFA11F41747 /* Pods-XGLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XGLib_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-XGLib_Example/Pods-XGLib_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C774BD39E7675E280DEDC8C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		C886FC6E962B1B699F2D8AE6 /* XGLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = XGLib.podspec; path = ../XGLib.podspec; sourceTree = "<group>"; };
+		C774BD39E7675E280DEDC8C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		C886FC6E962B1B699F2D8AE6 /* XGLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = XGLib.podspec; path = ../XGLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
