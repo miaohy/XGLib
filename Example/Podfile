@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XGLib_Example' do
+  pod 'XGLib', :path => '../'
+
+  target 'XGLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
